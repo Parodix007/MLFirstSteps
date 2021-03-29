@@ -15,4 +15,4 @@ OSEMN --> obtain, scrub, explore, model, iNterpret
 ## Data sets
 (http://archive.ics.uci.edu/ml/index.php --> ❤️)
 
-* Adults: Main goal: Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.
+* **Adults**: **Main goal**: Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.
